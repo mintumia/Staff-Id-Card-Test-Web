@@ -1,0 +1,66 @@
+body {
+  margin: 0;
+  padding: 0;
+}
+
+.container {
+  font-family: Arial, Helvetica, sans-serif;
+  width: 450px;
+  height: 750px;
+  margin: auto;
+  background-color: lightcyan;
+  border: 3px solid black;
+  border-radius: 5%;
+  box-shadow: 10px 10px 10px 10px rgb(32, 23, 23);
+  
+}
+.logo {
+    
+  position: relative;
+ margin-left: 3%;
+ margin-right: 3%;
+  width: 94%;
+}
+.photo {
+  position: relative;
+  width: 250px;
+  height: 290px;
+  text-align: center;
+  margin: auto;
+  margin-top: 0px;
+  margin-left: 0px;
+  border: 3px solid blue;
+  border-radius: 50%;
+}
+
+h2 {
+  font-size: xxx-large;
+  text-align: center;
+  margin: 20px;
+}
+.left > p {
+  text-align: left;
+  margin-left: 50px;
+  font-size: x-large;
+  margin: 10px;
+}
+.blood {
+  font-size: xx-large;
+  color: red;
+  font-weight: bold;
+}
+
+.Sign{
+
+    margin-top: 60px;
+}
+.Sign > p {
+ 
+  display: inline;
+  margin-top: 30px;
+  padding-top: 10px;
+  text-align: left;
+  margin-left: 50px;
+  font-size: large;
+  border-top: 3px solid black;
+}
